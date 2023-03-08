@@ -90,3 +90,7 @@ HEAD **---->** 分支 **---->** 版本
 
 6. ssh免密登录
 
+   ssh-keygen -t rsa -C github账户
+
+   user.ssh下复制公钥
+
